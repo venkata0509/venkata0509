@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkata0509
 - 👀 I’m interested in systems programming
 - 🌱 I’m currently learning C++
-- 📫 How to reach me rvsraghava@gmail.com
+- 📫 How to reach me: rvsraghava@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
